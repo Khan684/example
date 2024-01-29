@@ -24,6 +24,7 @@ public class JavaApplication2 {
         for(int i=0;i<word.length();i++)
         {
         reverse[i] = word.charAt(i);
+        //branch
         }
         
     }
